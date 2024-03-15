@@ -1,0 +1,31 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+li[value="1"] {
+    color: red;
+}
+
+li[value="2"] {
+    color: blue;
+}
+
+.note {
+    font-weight: normal;
+}
+
+#id-selector-demo {
+    color: blue;
+}
+
+li[value="3"] {
+    color: rgb(255, 149, 0);
+}
+
+li[value="4"] {
+    color: black;
+}
+
+li[value="5"] {
+    color: green;
+}
